@@ -1,0 +1,7 @@
+model,model_en,accuracy
+Baseline(多數類別),Baseline (majority),0.4935064935064935
+Baseline(動量),Baseline (momentum),0.5584415584415584
+LR 無情緒(CV avg),LR no sentiment (CV avg),0.54375
+LR 有情緒(CV avg),LR with sentiment (CV avg),0.546875
+RF 無情緒(CV avg),RF no sentiment (CV avg),0.50625
+RF 有情緒(CV avg),RF with sentiment (CV avg),0.496875

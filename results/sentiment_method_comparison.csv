@@ -1,0 +1,4 @@
+method,method_en,accuracy
+詞典法,Dictionary,0.26666666666666666
+現成財經 BERT,Pretrained BERT,0.5466666666666666
+Fine-tuned BERT,Fine-tuned BERT,0.6733333333333333

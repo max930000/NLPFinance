@@ -1,0 +1,28 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Data (large / regenerable — see README for how to fetch or regenerate)
+data/*
+!data/.gitkeep
+
+# Model weights (too large for GitHub — see README for how to obtain)
+models/my_finetuned_bert/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Original exploratory notebook, superseded by notebooks/analysis.ipynb + src/
+/side.ipynb
+
+# Python
+__pycache__/
+*.pyc
+
+# Env vars / secrets
+.env
+
+# OS
+.DS_Store
+Thumbs.db
